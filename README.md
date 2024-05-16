@@ -41,4 +41,4 @@ The code will not executute properly if run in a local IDE. It was created expli
 ## Contributing Members
 
  - [Michael Jung](https://github.com/MJ-HSLU)
- - [Yanik Baumann] (https://github.com/kre8tivz)
+ - [Yanik Baumann](https://github.com/kre8tivz)
